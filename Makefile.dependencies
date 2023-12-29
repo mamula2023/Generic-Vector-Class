@@ -1,2 +1,0 @@
-vector.o: vector.c vector.h bool.h
-vectortest.o: vectortest.c vector.h bool.h
